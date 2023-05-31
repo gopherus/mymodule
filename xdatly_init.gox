@@ -1,0 +1,5 @@
+package mymodule
+
+import (
+	_ "github.com/gopherus/mymodule/dependency"
+)
